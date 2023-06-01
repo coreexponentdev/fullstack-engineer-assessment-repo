@@ -13,7 +13,8 @@ An IP Address Management REST API on top of any data store of your choice. It ha
 
 
 ## Frontend
-Create a frontend application utilizing the REST API you created in the previous section.
+Create a frontend application using frontend technologies such as HTML, CSS, JavaScript.
+Make sure to utilize the REST API you created in the previous section.
 
 
 ## Bonus
