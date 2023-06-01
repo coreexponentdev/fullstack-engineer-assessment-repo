@@ -1,6 +1,5 @@
-# Fullstack Engineer Assessment
+# Fullstack Engineer Assessment - IP Address Management
 
-# IP Address Management
 
 ## REST API
 An IP Address Management REST API on top of any data store of your choice. It has the ability to add IP Addresses by CIDR block and then either acquire or release IP addresses individually. Each IP address will have a status associated with it that is either “available” or “acquired”.
