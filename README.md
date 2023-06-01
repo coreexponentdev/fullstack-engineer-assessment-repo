@@ -18,4 +18,8 @@ Make sure to utilize the REST API you created in the previous section.
 
 
 ## Bonus
-Deploy the Application to a Cloud provider (ex. AWS or Azure).
+Deploy the Application to a Cloud platform (ex. AWS or Azure).
+
+
+## Submission
+Push your code here, send a link if you deployed the application.
